@@ -18,7 +18,7 @@ This tutorial demonstrates the lifecycle of end-user tickets in the open-source 
 <h2>Ticket Lifecycle Objectives</h2>
 
 - Creating Support Ticket
-- Item 2
+- Replying to Support Ticket
 - Item 3
 - Item 4
 - Item 5
@@ -36,10 +36,16 @@ Under Ticket Details, enter a brief overview of the issue in the Issue Summary f
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="958" height="1036" alt="Screenshot 2026-03-01 144610" src="https://github.com/user-attachments/assets/e30f144e-56cf-4bb4-af2a-80ee15ef915b" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To respond to an end-user ticket in osTicket, the admin or agent should first log in to the Agent Panel. Click on the Tickets tab to view the list of open tickets, then select the ticket they want to work on by clicking the ticket number or subject. Review the ticket details and read the user’s message carefully to understand the issue before taking action.
+
+To reply to the user, they then type their response in the Reply box. Make sure the message clearly addresses the user’s problem and provides helpful instructions or information. They can also attach files or screenshots if needed. After completing the message, click Post Reply. The end user will receive the response by email and can also view it in the Support Center.
+
+If they need to add information that should only be visible to staff, click the Internal Note tab instead of Reply. Internal notes are used for communication between agents and admins and are not visible to the end user. This is useful for documenting troubleshooting steps, sharing updates, or leaving instructions for other staff members. After typing the note, click Post Note to save it.
+
+Agents and admins can also update the ticket’s Status, assign it to a different Department or Agent, or set a Priority level to ensure the issue is handled properly.
 </p>
 <br />
 
