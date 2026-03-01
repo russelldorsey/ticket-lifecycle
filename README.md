@@ -17,11 +17,9 @@ This tutorial demonstrates the lifecycle of end-user tickets in the open-source 
 
 <h2>Ticket Lifecycle Objectives</h2>
 
-- Creating Support Ticket
-- Replying to Support Ticket
-- Item 3
-- Item 4
-- Item 5
+- End User Creating Support Ticket
+- Admin/Agent Updating Support Ticket
+- Admin/Agent Responding to Support Ticket
 
 <h2>Ticket Lifecycle Steps</h2>
 
