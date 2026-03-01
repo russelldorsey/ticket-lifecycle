@@ -15,7 +15,7 @@ This tutorial demonstrates the lifecycle of end-user tickets in the open-source 
 
 - Windows 10</b> (22H2)
 
-<h2>Ticket Lifecycle</h2>
+<h2>Ticket Lifecycle Objectives</h2>
 
 - End User reports system down in the wrong Help Topic category.
 - Item 2
