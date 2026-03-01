@@ -17,7 +17,7 @@ This tutorial demonstrates the lifecycle of end-user tickets in the open-source 
 
 <h2>Ticket Lifecycle Objectives</h2>
 
-- End User reports system down in the wrong Help Topic category.
+- Creating Support Ticket
 - Item 2
 - Item 3
 - Item 4
