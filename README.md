@@ -36,7 +36,7 @@ Under Ticket Details, enter a brief overview of the issue in the Issue Summary f
 <br />
 
 <p>
-<img width="956" height="1037" alt="Screenshot 2026-03-01 153130" src="https://github.com/user-attachments/assets/c9796dc0-e853-43b5-b5fd-eb3f55eb13b5" />
+<img width="956" height="1036" alt="Screenshot 2026-03-01 153903" src="https://github.com/user-attachments/assets/221d95b1-ba7a-4232-abf1-e2d600c286b0" />
 </p>
 <p>
 To respond to an end-user ticket in osTicket, the admin or agent should first log in to the Agent Panel. Click on the Tickets tab to view the list of open tickets, then select the ticket they want to work on by clicking the ticket number or subject. Review the ticket details and read the user’s message carefully to understand the issue before taking action.
