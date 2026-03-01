@@ -43,9 +43,9 @@ To respond to an end-user ticket in osTicket, the admin or agent should first lo
 
 To reply to the user, they then type their response in the Reply box. Make sure the message clearly addresses the user’s problem and provides helpful instructions or information. They can also attach files or screenshots if needed. After completing the message, click Post Reply. The end user will receive the response by email and can also view it in the Support Center.
 
-If they need to add information that should only be visible to staff, click the Internal Note tab instead of Reply. Internal notes are used for communication between agents and admins and are not visible to the end user. This is useful for documenting troubleshooting steps, sharing updates, or leaving instructions for other staff members. After typing the note, click Post Note to save it.
+If they need to add information that should only be visible to staff, click the Post Internal Note tab instead of Post Reply. Internal notes are used for communication between agents and admins and are not visible to the end user. This is useful for documenting troubleshooting steps, sharing updates, or leaving instructions for other staff members. After typing the note, click Post Note to save it.
 
-Agents and admins can also update the ticket’s Status, assign it to a different Department or Agent, or set a Priority level to ensure the issue is handled properly.
+Agents and admins can also update the Priority Level, assign it to a different Department or Agent, update the SLA Plan, or change the Help Topic to ensure the issue is handled properly.
 </p>
 <br />
 
