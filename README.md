@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle Examples</h1>
+<h1>osTicket - Ticket Lifecycle</h1>
 This tutorial demonstrates the lifecycle of end-user tickets in the open-source help desk ticketing system, osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
@@ -15,7 +15,7 @@ This tutorial demonstrates the lifecycle of end-user tickets in the open-source 
 
 - Windows 10</b> (22H2)
 
-<h2>Ticket Lifecycle Examples</h2>
+<h2>Ticket Lifecycle</h2>
 
 - End User reports system down in the wrong Help Topic category.
 - Item 2
