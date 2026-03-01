@@ -37,10 +37,6 @@ Under Ticket Details, enter a brief overview of the issue in the Issue Summary f
 <img width="956" height="1036" alt="Screenshot 2026-03-01 153903" src="https://github.com/user-attachments/assets/221d95b1-ba7a-4232-abf1-e2d600c286b0" />
 </p>
 <p>
-To respond to an end-user ticket in osTicket, the admin or agent should first log in to the Agent Panel. Click on the Tickets tab to view the list of open tickets, then select the ticket they want to work on by clicking the ticket number or subject. Review the ticket details and read the user’s message carefully to understand the issue before taking action.
-
-To reply to the user, they then type their response in the Reply box. Make sure the message clearly addresses the user’s problem and provides helpful instructions or information. They can also attach files or screenshots if needed. After completing the message, click Post Reply. The end user will receive the response by email and can also view it in the Support Center.
-
 If they need to add information that should only be visible to staff, click the Post Internal Note tab instead of Post Reply. Internal notes are used for communication between agents and admins and are not visible to the end user. This is useful for documenting troubleshooting steps, sharing updates, or leaving instructions for other staff members. After typing the note, click Post Note to save it.
 
 Agents and admins can also update the Priority Level, assign it to a different Department or Agent, update the SLA Plan, or change the Help Topic to ensure the issue is handled properly.
@@ -51,6 +47,8 @@ Agents and admins can also update the Priority Level, assign it to a different D
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To respond to an end-user ticket in osTicket, the admin or agent should first log in to the Agent Panel. Click on the Tickets tab to view the list of open tickets, then select the ticket they want to work on by clicking the ticket number or subject. Review the ticket details and read the user’s message carefully to understand the issue before taking action.
+
+To reply to the user, they then type their response in the Post Reply box. Make sure the message clearly addresses the user’s problem and provides helpful instructions or information. They can also attach files or screenshots if needed. After completing the message, click Post Reply. The end user will receive the response by email and can also view it in the Support Center.
 </p>
 <br />
