@@ -52,3 +52,13 @@ To respond to an end-user ticket in osTicket, the admin or agent should first lo
 To reply to the user, they then type their response in the Post Reply box. Make sure the message clearly addresses the user’s problem and provides helpful instructions or information. They can also attach files or screenshots if needed. After completing the message, click Post Reply. The end user will receive the response by email and can also view it in the Support Center.
 </p>
 <br />
+
+<p>
+<img width="478" height="518" alt="Screenshot 2026-03-03 152804" src="https://github.com/user-attachments/assets/793609a7-dddc-4acc-be49-90ea3a248d8d" />
+</p>
+<p>
+To close or resolve an end-user ticket in osTicket, log in to the Agent Panel and click on the Tickets tab. Select the ticket you want to close by clicking on the ticket number or subject. Review the conversation to ensure the issue has been fully addressed and that the user no longer needs assistance. If necessary, send a final reply confirming the resolution.
+
+Once the issue is resolved, locate the Status option within the ticket and change it to Resolved or Closed, depending on your system’s configuration. You may also add a final Internal Note to document the resolution for staff reference. After updating the status, save the changes. The ticket will then move out of the open queue, and the end user will receive a notification if the system is configured to send status updates.
+</p>
+<br />
