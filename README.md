@@ -44,7 +44,8 @@ Agents and admins can also update the Priority Level, assign it to a different D
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="477" height="517" alt="Screenshot 2026-03-03 151336" src="https://github.com/user-attachments/assets/52e3c6af-6e24-445e-91cf-0155c7e7e148" />
+
 </p>
 <p>
 To respond to an end-user ticket in osTicket, the admin or agent should first log in to the Agent Panel. Click on the Tickets tab to view the list of open tickets, then select the ticket they want to work on by clicking the ticket number or subject. Review the ticket details and read the user’s message carefully to understand the issue before taking action.
