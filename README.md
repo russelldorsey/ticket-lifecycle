@@ -54,7 +54,7 @@ To reply to the user, they then type their response in the Post Reply box. Make 
 <br />
 
 <p>
-<img width="478" height="518" alt="Screenshot 2026-03-03 152804" src="https://github.com/user-attachments/assets/793609a7-dddc-4acc-be49-90ea3a248d8d" />
+<img width="955" height="1035" alt="Screenshot 2026-03-03 152804" src="https://github.com/user-attachments/assets/793609a7-dddc-4acc-be49-90ea3a248d8d" />
 </p>
 <p>
 To close or resolve an end-user ticket in osTicket, log in to the Agent Panel and click on the Tickets tab. Select the ticket you want to close by clicking on the ticket number or subject. Review the conversation to ensure the issue has been fully addressed and that the user no longer needs assistance. If necessary, send a final reply confirming the resolution.
