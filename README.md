@@ -20,6 +20,7 @@ This tutorial demonstrates the lifecycle of end-user tickets in the open-source 
 - End User Creating Support Ticket
 - Admin/Agent Updating Support Ticket
 - Admin/Agent Responding to Support Ticket
+- Admin/Agent Resolve or Close Support Ticket
 
 <h2>Ticket Lifecycle Steps</h2>
 
